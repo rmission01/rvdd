@@ -1,0 +1,48 @@
+baseURL = "https://www.robvanderdussen.com"
+languageCode = "en-us"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "nl"
+SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+defaultContentLanguageInSubdir = true
+
+# MARKDOWN
+## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
+[blackfriday]
+	hardLineBreak = true
+  joinLines = false
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "New initiatives, a revolutionary message and an ancient city"
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/join_the_movement.jpg"
+  recent_posts_number = 2
+
+[languages]
+  [languages.en]
+    title = "Churchplanting | Rob van der Dussen"
+    languageName = "English"
+    weight = 1
+  [languages.nl]
+    title = "Gemeentestichting | Rob van der Dussen"
+    languageName = "Dutch"
+    weight = 2
