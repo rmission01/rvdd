@@ -1,18 +1,18 @@
 ---
-title: "About Rob"
-featured_image: '/images/portret_villa_borghese.jpg'
+title: About Rob
+featured_image: "/images/portret_villa_borghese.jpg"
 description: About Rob
 heading: About Rob
 sub_heading: 
 layout: landing-page
 textline: About Rob
-publish_date: 2017-12-01 04:00:00 +0000
+publish_date: 2017-12-01T04:00:00.000+00:00
 show_staff: false
 content: About Rob
 menu:
   navigation:
     identifier: _about
-    weight: 2
+    weight: 1
 
 ---
 Work

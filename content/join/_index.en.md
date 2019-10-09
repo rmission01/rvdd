@@ -10,7 +10,7 @@ textline: JOIN THE MOVEMENT
 content: Invest
 menu:
   navigation:
-    weight: 5
+    weight: 3
 
 ---
 ## Invest

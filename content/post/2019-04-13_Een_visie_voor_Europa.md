@@ -2,10 +2,9 @@
 title: Een visie voor Europa
 date: 2019-04-13 00:04:13 +0000
 related_posts: []
-sub_heading: Johannes Calvijn
+description: Johannes Calvijn
 tags: []
-banner_image: "/uploads/NIEUW Een visie voor Europa.png"
-layout: post
+featured_image: "/uploads/blog/Calvijn.png"
 
 ---
 Waarom is hij gekozen? Waarom Calvijn? Een student vroeg me eens "Is hij niet degene die schreef over predestinatie? Hoe kan je dan missionair werk doen?" Wacht even voordat je Calvijn terug op de plank zet.
