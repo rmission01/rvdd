@@ -57,4 +57,3 @@ build:
   - HUGO_VERSION=0.58.2
   output_directory: _site
   preview_command: hugo -D -E -F -d _site
-version: 0.58.2
