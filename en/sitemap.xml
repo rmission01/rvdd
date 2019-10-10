@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.robvanderdussen.com/en/contact/</loc>
+    <lastmod>2017-11-01T03:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.robvanderdussen.com/nl/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robvanderdussen.com/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.robvanderdussen.com/en/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.robvanderdussen.com/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robvanderdussen.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.robvanderdussen.com/en/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.robvanderdussen.com/nl/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robvanderdussen.com/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.robvanderdussen.com/en/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.robvanderdussen.com/nl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robvanderdussen.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.robvanderdussen.com/en/join/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.robvanderdussen.com/nl/join/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robvanderdussen.com/en/join/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.robvanderdussen.com/en/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.robvanderdussen.com/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.robvanderdussen.com/en/tags/"
+                />
+  </url>
+  
+</urlset>
